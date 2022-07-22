@@ -1,6 +1,6 @@
 {
   "name": "country-iso-3-to-2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Convert a country code ISO 3166-1 Alpha-3 to ISO 3166-1 Alpha-2",
   "main": "index.js",
   "scripts": {
